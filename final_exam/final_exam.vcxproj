@@ -24,6 +24,7 @@
     <ProjectGuid>{a3f9ace2-51d0-4915-b559-d2beaa3548de}</ProjectGuid>
     <RootNamespace>finalexam</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>과제2</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
